@@ -16,7 +16,7 @@
 ================================================================================
 
 
-                     Apache Tomcat Version 8.5.40
+                     Apache Tomcat Version 8.5.70
                             Release Notes
 
 
@@ -38,7 +38,7 @@ CONTENTS:
 ===================
 Dependency Changes:
 ===================
-Tomcat 8.5 is designed to run on Java SE 7 and later.
+Tomcat 8.5 is designed to run on Java 7 and later.
 
 
 ==============
