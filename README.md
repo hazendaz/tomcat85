@@ -1,5 +1,5 @@
-Tomcat 8.5 Bundle
-===============
+Tomcat 8.5 Bundle (Reached End of Life)
+=======================================
 
 This project takes tomcat 8.5.x zip and expands on it to provide the following.
 
@@ -13,3 +13,5 @@ This project takes tomcat 8.5.x zip and expands on it to provide the following.
 - And if you want, drop back in tomcat wars and those are pre-configured as well but intentionally left out
 
 note: Credential usage here is simply for testing purposes only and should be considered exposed.
+
+Master tested as of 5/4/2024 on java 8 to work successfully using built in psi probe.
