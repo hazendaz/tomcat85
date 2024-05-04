@@ -77,7 +77,7 @@
                redirectPort="8443"
                maxParameterCount="1000"
                compression="on" compressionMinSize="100"
-               compressibleMimeType="text/html,text/xml,text/css,text/javascript,application/x-javascript,application/javascript" />
+               compressibleMimeType="text/html,text/xml,text/css,text/javascript,application/x-javascript,application/javascript"
                />
 
     <!-- Define an SSL/TLS HTTP/1.1 Connector on port 8443
